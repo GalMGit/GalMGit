@@ -1,11 +1,10 @@
-## 👋 Привет! Меня зовут [GalM]
+## 👋 Привет! Меня зовут GalM
 
-| Показатель | Значение |
-|------------|----------|
-| 🎬 **YouTube** | [Мой канал](https://www.youtube.com/@NeutronCode) |
-| 👁️ **Просмотры** | ![Views](https://komarev.com/ghpvc/?username=GalMGit&color=blue) |
-| 👥 **Подписчики** | [![GitHub followers](https://img.shields.io/github/followers/GalMGit?style=social)](https://github.com/GalMGit) |
-| ⭐ **Звезды** | [![GitHub stars](https://img.shields.io/github/stars/GalMGit?style=social)](https://github.com/GalMGit) |
+
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Views](https://img.shields.io/badge/views-1M-blue?style=for-the-badge&logo=eye&logoColor=white)
+![Followers](https://img.shields.io/badge/followers-100-orange?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/stars-50-yellow?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🛠️ Languages and Tools
 
