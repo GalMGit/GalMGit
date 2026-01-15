@@ -20,10 +20,10 @@
 
 ## 🎬 My Videos
 
-| Видео 1 | Видео 2 | Видео 3 |
+
 |---------|---------|---------|
 | [![](https://img.youtube.com/vi/Ixu4hGdPXOI/mqdefault.jpg)](https://www.youtube.com/watch?v=Ixu4hGdPXOI) | [![](https://img.youtube.com/vi/Dm0LKuMNptU/mqdefault.jpg)](https://www.youtube.com/watch?v=Dm0LKuMNptU) | [![](https://img.youtube.com/vi/3Z82SEDsymY/mqdefault.jpg)](https://www.youtube.com/watch?v=3Z82SEDsymY) |
 
-| Видео 4 | Видео 5 | Видео 6 |
+
 |---------|---------|---------|
 | [![](https://img.youtube.com/vi/1xYhoKsbcYE/mqdefault.jpg)](https://www.youtube.com/watch?v=1xYhoKsbcYE) | [![](https://img.youtube.com/vi/qbbrvmBRJGg/mqdefault.jpg)](https://www.youtube.com/watch?v=qbbrvmBRJGg) | [![](https://img.youtube.com/vi/yxWvOL8S8mM/mqdefault.jpg)](https://www.youtube.com/watch?v=yxWvOL8S8mM) |
