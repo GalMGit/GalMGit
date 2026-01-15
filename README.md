@@ -1,21 +1,30 @@
-## Hi there 👋
+## 👋 Привет! Меня зовут [GalM]
 
-🎬 **Посмотрите мое демо-видео:**
-[![Демонстрация моего проекта](https://img.youtube.com/vi/Ixu4hGdPXOI/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ixu4hGdPXOI)
-*Нажмите на изображение, чтобы посмотреть на YouTube*
+| Показатель | Значение |
+|------------|----------|
+| 🎬 **YouTube** | [Мой канал](https://www.youtube.com/@NeutronCode) |
+| 👁️ **Просмотры** | ![Views](https://komarev.com/ghpvc/?username=GalMGit&color=blue) |
+| 👥 **Подписчики** | [![GitHub followers](https://img.shields.io/github/followers/GalMGit?style=social)](https://github.com/GalMGit) |
+| ⭐ **Звезды** | [![GitHub stars](https://img.shields.io/github/stars/GalMGit?style=social)](https://github.com/GalMGit) |
 
-### 👩‍💻 Обо мне
-**GalMGit/GalMGit** - это ✨ _особый_ ✨ репозиторий, потому что `README.md` (этот файл) отображается в вашем профиле GitHub.
+## 🛠️ Languages and Tools
 
-Вот несколько идей для начала:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- 🔭 Сейчас работаю над ...
-- 🌱 Изучаю ...
-- 👯 Ищу сотрудничества в ...
-- 🤔 Нужна помощь с ...
-- 💬 Спросите меня о ...
-- 📫 Как связаться: ...
-- 😄 Местоимения: ...
-- ⚡ Интересный факт: ...
+## 🎬 My Videos
 
-## 🛠️ Мои технологии
+| Видео 1 | Видео 2 | Видео 3 |
+|---------|---------|---------|
+| [![](https://img.youtube.com/vi/Ixu4hGdPXOI/mqdefault.jpg)](https://www.youtube.com/watch?v=Ixu4hGdPXOI) | [![](https://img.youtube.com/vi/Dm0LKuMNptU/mqdefault.jpg)](https://www.youtube.com/watch?v=Dm0LKuMNptU) | [![](https://img.youtube.com/vi/3Z82SEDsymY/mqdefault.jpg)](https://www.youtube.com/watch?v=3Z82SEDsymY) |
+
+| Видео 4 | Видео 5 | Видео 6 |
+|---------|---------|---------|
+| [![](https://img.youtube.com/vi/1xYhoKsbcYE/mqdefault.jpg)](https://www.youtube.com/watch?v=1xYhoKsbcYE) | [![](https://img.youtube.com/vi/qbbrvmBRJGg/mqdefault.jpg)](https://www.youtube.com/watch?v=qbbrvmBRJGg) | [![](https://img.youtube.com/vi/yxWvOL8S8mM/mqdefault.jpg)](https://www.youtube.com/watch?v=yxWvOL8S8mM) |
