@@ -1,7 +1,7 @@
 ## 👋 Привет! Меня зовут GalM
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-@NeutronCode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeutronCode)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeutronCode)
 [![Profile Views](https://komarev.com/ghpvc/?username=GalMGit&style=for-the-badge&label=Profile%20Views)](https://github.com/GalMGit)
 [![GitHub Followers](https://img.shields.io/github/followers/GalMGit?style=for-the-badge&logo=github&label=Followers)](https://github.com/GalMGit?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/GalMGit?style=for-the-badge&logo=github&label=Stars)](https://github.com/GalMGit)
