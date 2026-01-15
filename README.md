@@ -1,10 +1,10 @@
 ## 👋 Привет! Меня зовут GalM
 
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Views](https://img.shields.io/badge/views-1M-blue?style=for-the-badge&logo=eye&logoColor=white)
-![Followers](https://img.shields.io/badge/followers-100-orange?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/badge/stars-50-yellow?style=for-the-badge&logo=github&logoColor=white)
+[![YouTube](https://img.shields.io/badge/YouTube-@NeutronCode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeutronCode)
+[![Profile Views](https://komarev.com/ghpvc/?username=GalMGit&style=for-the-badge&label=Profile%20Views)](https://github.com/GalMGit)
+[![GitHub Followers](https://img.shields.io/github/followers/GalMGit?style=for-the-badge&logo=github&label=Followers)](https://github.com/GalMGit?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/GalMGit?style=for-the-badge&logo=github&label=Stars)](https://github.com/GalMGit)
 
 ## 🛠️ Languages and Tools
 
