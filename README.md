@@ -1,9 +1,9 @@
 ## Привет! Меня зовут GalM
 
 [![YouTube](https://img.shields.io/badge/-YouTube-292929?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@NeutronCode)
-[![Profile Views](https://komarev.com/ghpvc/?username=GalMGit&style=for-the-badge&label=Profile%20Views)](https://github.com/GalMGit)
-[![GitHub Followers](https://img.shields.io/github/followers/GalMGit?style=for-the-badge&logo=github&label=Followers)](https://github.com/GalMGit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/GalMGit?style=for-the-badge&logo=github&label=Stars)](https://github.com/GalMGit)
+[![Profile Views](https://komarev.com/ghpvc/?username=GalMGit&style=for-the-badge&label=Profile%20Views&color=292929)](https://github.com/GalMGit)
+[![GitHub Followers](https://img.shields.io/github/followers/GalMGit?style=for-the-badge&logo=github&label=Followers&color=292929)](https://github.com/GalMGit?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/GalMGit?style=for-the-badge&logo=github&label=Stars&color=292929)](https://github.com/GalMGit)
 
 ## Languages and Tools
 
